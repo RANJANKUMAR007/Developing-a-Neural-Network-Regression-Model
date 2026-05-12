@@ -92,18 +92,16 @@ class NeuralNet(nn.Module):
 
 ### Dataset Information
 
-<img width="465" height="640" alt="Screenshot 2026-04-24 111735" src="https://github.com/user-attachments/assets/d3c69da6-4f87-410d-9329-89e38677aee4" />
+<img width="176" height="580" alt="image" src="https://github.com/user-attachments/assets/b4eecd27-7ede-4bfb-ae41-1756610acfc8" />
+
+<img width="431" height="255" alt="Screenshot 2026-05-12 131110" src="https://github.com/user-attachments/assets/51da054e-8983-42bc-bd49-96ce419a0d5d" />
 
 
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-<img width="871" height="628" alt="Screenshot 2026-04-24 112038" src="https://github.com/user-attachments/assets/976bbabb-f209-4725-a127-445e78537b5d" />
-
-### New Sample Data Prediction
-
-<img width="861" height="601" alt="image" src="https://github.com/user-attachments/assets/89756f21-a1e6-45fc-86e0-c67b964b08fc" />
+<img width="861" height="601" alt="Screenshot 2026-05-12 130841" src="https://github.com/user-attachments/assets/6fb14dcc-0da8-403a-8fd5-3d1e74bfc022" />
 
 
 
