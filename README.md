@@ -51,9 +51,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Amruthavarshini Gopal
+### Name: RANAJN KUMAR G
 
-### Register Number: 212223230013
+### Register Number: 212223240138
 
 ```python
 class NeuralNet(nn.Module):
@@ -103,7 +103,8 @@ class NeuralNet(nn.Module):
 
 ### New Sample Data Prediction
 
-<img width="924" height="145" alt="Screenshot 2026-04-24 112145" src="https://github.com/user-attachments/assets/953448c4-938f-4ec0-ac88-de1b888ade90" />
+<img width="861" height="601" alt="image" src="https://github.com/user-attachments/assets/89756f21-a1e6-45fc-86e0-c67b964b08fc" />
+
 
 
 ## RESULT
